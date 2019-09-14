@@ -6,155 +6,80 @@ export_on_save:
 ---
 @import "ucat-style.less"
 
-The Longer Catechism of The Orthodox, Catholic, Eastern Church
+# The Longer Catechism of The Orthodox, Catholic, Eastern Church
 
 also known as the Catechism of St. Philaret (Drozdov) of Moscow
 (Св. Филарет, Митрополит Московски)
 
+### [INTRODUCTION TO THE ORTHODOX CATECHISM.](#introduction-to-the-orthodox-catechism)
+#### Preliminary Instruction.
+#### On Divine Revelation.
+#### On Holy Tradition and Holy Scripture.
+#### On Holy Scripture in Particular.
 
+### [THE FIRST PART OF THE ORTHODOX CATECHISM.](#the-first-part-of-the-orthodox-catechism) ON FAITH.
+#### On the Creed generally, and on its Origin.
+#### On the Articles of the Creed.
+#### On the First Article.
+##### Divine providence.
+#### On the Second Article.
+#### On the Third Article.
+##### Of the Son of God.
+#### On the Fourth Article.
+#### On the Fifth Article.
+#### On the Sixth Article.
+#### On the Seventh Article.
+#### On the Eighth Article.
+#### On the Ninth Article.
+#### On the Tenth Article.
+##### On Baptism.
+##### On Unction with Chrism.
+##### On the Communion.
+##### On Penitence.
+##### On Orders.
+##### On Matrimony.
+##### On Unction with Oil.
+#### On the Eleventh Article.
+#### On the Twelfth Article.
 
-INTRODUCTION TO THE ORTHODOX CATECHISM.
-Preliminary Instruction.
-On Divine Revelation.
-On Holy Tradition and Holy Scripture.
-On Holy Scripture in Particular.
+### THE SECOND PART OF THE ORTHODOX CATECHISM. ON HOPE.
+#### Definition of Christian Hope, its Ground, and the Means thereto.
+#### On Prayer.
+#### On the Lord's Prayer.
+#### On the First Petition.
+#### On the Second Petition.
+#### On the Third Petition.
+#### On the Fourth Petition.
+#### On the Fifth Petition.
+#### On the Sixth Petition.
+#### On the Seventh Petition.
+#### On the Doxology.
+#### On the Doctrine of Blessedness.
+#### On the First Beatitude.
+#### On the Second Beatitude.
+#### On the Third Beatitude.
+#### On the Fourth Beatitude.
+#### On the Fifth Beatitude.
+#### On the Sixth Beatitude.
+#### On the Seventh Beatitude.
+#### On the Eighth Beatitude.
 
-THE FIRST PART OF THE ORTHODOX CATECHISM.
-ON FAITH.
-On the Creed generally, and on its Origin.
-On the Articles of the Creed.
-On the First Article.
-Divine providence.
-On the Second Article.
-On the Third Article.
-Of the Son of God.
-On the Fourth Article.
-On the Fifth Article.
-On the Sixth Article.
-On the Seventh Article.
-On the Eighth Article.
-On the Ninth Article.
-On the Tenth Article.
-On Baptism.
-On Unction with Chrism.
-On the Communion.
-On Penitence.
-On Orders.
-On Matrimony.
-On Unction with Oil.
-On the Eleventh Article.
-On the Twelfth Article.
+### THE THIRD PART OF THE ORTHODOX CATECHISM. ON LOVE.
+#### On the Union between Faith and Love.
+#### On the Law of God and the Commandments.
+#### On the First Commandment.
+#### On the Second Commandment.
+#### On the Third Commandment.
+#### On the Fourth Commandment.
+#### On the Fifth Commandment.
+#### On the Sixth Commandment.
+#### On the Seventh Commandment.
+#### On the Eighth Commandment.
+#### On the Ninth Commandment.
+#### On the Tenth Commandment.
 
-THE SECOND PART OF THE ORTHODOX CATECHISM. ON HOPE.
-Definition of Christian Hope, its Ground, and the Means thereto.
-On Prayer.
-On the Lord's Prayer.
-On the First Petition.
-On the Second Petition.
-On the Third Petition.
-On the Fourth Petition.
-On the Fifth Petition.
-On the Sixth Petition.
-On the Seventh Petition.
-On the Doxology.
-On the Doctrine of Blessedness.
-On the First Beatitude.
-On the Second Beatitude.
-On the Third Beatitude.
-On the Fourth Beatitude.
-On the Fifth Beatitude.
-On the Sixth Beatitude.
-On the Seventh Beatitude.
-On the Eighth Beatitude.
-
-THE THIRD PART OF THE ORTHODOX CATECHISM. ON LOVE.
-On the Union between Faith and Love.
-On the Law of God and the Commandments.
-On the First Commandment.
-On the Second Commandment.
-On the Third Commandment.
-On the Fourth Commandment.
-On the Fifth Commandment.
-On the Sixth Commandment.
-On the Seventh Commandment.
-On the Eighth Commandment.
-On the Ninth Commandment.
-On the Tenth Commandment.
-
-CONCLUSION.
-Application of the Doctrine of Faith and Piety.
-INTRODUCTION TO THE ORTHODOX CATECHISM.
-Preliminary Instruction.
-On Divine Revelation.
-On Holy Tradition and Holy Scripture.
-On Holy Scripture in Particular.
-
-THE FIRST PART OF THE ORTHODOX CATECHISM.
-ON FAITH.
-On the Creed generally, and on its Origin.
-On the Articles of the Creed.
-On the First Article.
-Divine providence.
-On the Second Article.
-On the Third Article.
-Of the Son of God.
-On the Fourth Article.
-On the Fifth Article.
-On the Sixth Article.
-On the Seventh Article.
-On the Eighth Article.
-On the Ninth Article.
-On the Tenth Article.
-On Baptism.
-On Unction with Chrism.
-On the Communion.
-On Penitence.
-On Orders.
-On Matrimony.
-On Unction with Oil.
-On the Eleventh Article.
-On the Twelfth Article.
-
-THE SECOND PART OF THE ORTHODOX CATECHISM. ON HOPE.
-Definition of Christian Hope, its Ground, and the Means thereto.
-On Prayer.
-On the Lord's Prayer.
-On the First Petition.
-On the Second Petition.
-On the Third Petition.
-On the Fourth Petition.
-On the Fifth Petition.
-On the Sixth Petition.
-On the Seventh Petition.
-On the Doxology.
-On the Doctrine of Blessedness.
-On the First Beatitude.
-On the Second Beatitude.
-On the Third Beatitude.
-On the Fourth Beatitude.
-On the Fifth Beatitude.
-On the Sixth Beatitude.
-On the Seventh Beatitude.
-On the Eighth Beatitude.
-
-THE THIRD PART OF THE ORTHODOX CATECHISM. ON LOVE.
-On the Union between Faith and Love.
-On the Law of God and the Commandments.
-On the First Commandment.
-On the Second Commandment.
-On the Third Commandment.
-On the Fourth Commandment.
-On the Fifth Commandment.
-On the Sixth Commandment.
-On the Seventh Commandment.
-On the Eighth Commandment.
-On the Ninth Commandment.
-On the Tenth Commandment.
-
-CONCLUSION.
-Application of the Doctrine of Faith and Piety.
-Съдържанието на този документ се генерира с безвреден за Вашия компютър active content (javascript).
-
+### CONCLUSION.
+#### Application of the Doctrine of Faith and Piety.
 
 
 Examined and Approved by the Most Holy Governing Synod, and Published for the Use of Schools, and of all Orthodox Christians, by Order of His Imperial Majesty (Moscow, at the Synodical Press, 1830.)
@@ -163,13 +88,11 @@ St. Philaret (Drozdov) of Moscow, russian icon. Source: days.ru[The large Russia
 
 The English translation here given was prepared by the Rev. R. W. Blackmore, B.A., formerly chaplain to the Russia Company in Kronstadt, and published at Aberdeen, 1845, in the work The Doctrine of the Russian Church. On comparing it with the authorized Greek and German translations, we found it faithful aud idiomatic. The numbering of Questions, and the difference in type of Questions and Answers, are ours. In all other editions we have seen, the Questions are not numbered. As this Catechism has never before appeared in America, we thought it best to give it in full, although the Introduction and the First Part would be sufficient for this collection of doctrinal symbols. Comp. Vol. I. § 19, pp. 68-73.]
 
+<div class="newpage"/>
 
+### INTRODUCTION TO THE ORTHODOX CATECHISM.
 
-
-
-INTRODUCTION TO THE ORTHODOX CATECHISM.
-
-Preliminary Instruction.
+#### Preliminary Instruction.
 
 1. What is an Orthodox Catechism?
 
@@ -215,7 +138,7 @@ It is not only amongst us, who hear the name of Christ, that faith is made so gr
 
 
 
-On Divine Revelation.
+#### On Divine Revelation.
 
 10. Whence is the doctrine of the orthodox faith derived?
 
@@ -238,20 +161,24 @@ Owing to their sinful impurity, and weakness both in soul and body.
 Adam, Noah, Abraham, Moses, and other Prophets, received and preached the beginnings of divine revelation; but it was the incarnate Son of God, our Lord Jesus Christ, who brought it to earth, in its fullness and perfection, and spread it over all the world by his Disciples and Apostles.
 
 The Apostle Paul says, in the beginning of his Epistle to the Hebrews:
-
+<blockquote>
 God, who at sundry times, and in divers manners, spake in times past unto the Fathers by the Prophets, hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds.
+</blockquote>
 
 The same Apostle writes as follows to the Corinthians:
-
+<blockquote>
 But we speak the wisdom of God in a mystery, even the hidden things which God ordained before the world unto our glory, which none of the princes of this world knew. But God hath revealed them unto us by his Spirit; for the Spirit searcheth all things, yea, the deep things of God. 1 Cor. ii. 7, 8, 10.
+</blockquote>
 
 The Evangelist John writes in his Gospel:
-
+<blockquote>
 No man hath seen God at any time; the only-begotten Son, which is in the bosom of the Father, he hath declared him. John i. 18.
+</blockquote>
 
 Jesus Christ himself says:
-
+<blockquote>
 No man knoweth the Son but the Father; neither knoweth any man the Father save the Son, and he to whomsoever the Son will reveal him. Matt. xi. 27.
+</blockquote>
 
 15. Can not man, then, have any knowledge of God without a special revelation from him?
 
@@ -266,14 +193,13 @@ With regard to faith in God, it is preceded by the idea that God is, which idea 
 
 
 
-
-On Holy Tradition and Holy Scripture.
+#### On Holy Tradition and Holy Scripture.
 
 16. How is divine revelation spread among men and preserved in the true Church?
 
 By two channels--holy tradition and holy Scripture.
 
-17. What is meant by the name holy tradition?
+17. What is meant by the name *holy tradition*?
 
 By the name holy tradition is meant the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down by the true believers and worshipers of God by word and example from one to another, and from generation to generation.
 
@@ -282,14 +208,15 @@ By the name holy tradition is meant the doctrine of the faith, the law of God, t
 All true believers united by the holy tradition of the faith, collectively and successively, by the will of God, compose the Church; and she is the sure repository of holy tradition, or, as St. Paul expresses it, The Church of the living God, the pillar and ground of the truth. 1 Tim. iii. 15.
 
 St. Irenæus writes thus:
-
+<blockquote>
 We ought not to seek among others the truth, which we may have for asking from the Church; for in her, as in a rich treasure-house, the Apostles have laid up in its fullness all that pertains to the truth, so that whosoever seeketh may receive from her the food of life. She is the door of life. (Adv. Hæres. lib. iii. c. 4.)
+</blockquote>
 
-19. What is that which you call holy Scripture?
+19. What is that which you call *holy Scripture*?
 
 Certain books written by the Spirit of God through men sanctified by God, called Prophets and Apostles. These books are commonly termed the Bible.
 
-20. What does the word Bible mean?
+20. What does the word *Bible* mean?
 
 It is Greek, and means the books. The name signifies that the sacred books deserve attention before all others.
 
@@ -303,21 +230,21 @@ To this end, that divine revelation might be preserved more exactly and unchange
 
 23. Must we follow holy tradition, even when we possess holy Scripture?
 
-We must follow that tradition which agrees with the divine revelation and with holy Scripture, as is taught us by holy Scripture itself. The Apostle Paul writes: Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word or our epistle. 2 Thess. ii. 15.
+We must follow that tradition which agrees with the divine revelation and with holy Scripture, as is taught us by holy Scripture itself. The Apostle Paul writes: *Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word or our epistle.* 2 Thess. ii. 15.
 
 24. Why is tradition necessary even now?
 
 As a guide to the right understanding of holy Scripture, for the right ministration of the sacraments, and the preservation of sacred rites and ceremonies in the purity of their original institution.
 
 St. Basil the Great says of this as follows:
-
+<blockquote>
 Of the doctrines and injunctions kept by the Church, some we have from written instruction. but some we have received from, apostolical tradition, by succession in private. Both the former and the latter have one and the same force for piety, and this will be contradicted by no one who has ever so little knowledge in the ordinances of the Church; for were we to dare to reject unwritten customs, as if they had no great importance, we should insensibly mutilate the Gospel, even in the most essential points, or, rather, for the teaching of the Apostles leave but an empty name. For instance, let us mention before all else the very first and commonest act of Christians, that they who trust in the name of our Lord Jesus Christ should sign themselves with the sign of the cross--who hath taught this by writing? To turn to the east in prayer--what Scripture have we for this? The words of invocation in the change of the Eucharistic bread and of the Cup of blessing--by which of the Saints have they been left us in writing? for we are not content with those words which the Apostle or the Gospel records, but both before them and after them, we pronounce others also, which we hold to be of great force for the sacrament, though we have received them from unwritten teaching. By what Scripture is it, in like manner, that we bless the water of baptism, the oil of unction, and the person himself who is baptized? Is it not by a silent and secret tradition? What more? The very practice itself of anointing with oil--what written word have we for it? Whence is the rule of trine immersion? and the rest of the ceremonies at baptism, the renunciation of Satan and his angels?--from what Scripture are they taken? Are they not all from this unpublished and private teaching, which our Fathers kept under a reserve inaccessible to curiosity and profane disquisition, having been taught as a first principle to guard by silence the sanctity of the mysteries? for how were it fit to publish in writing the doctrine of those things, on which the unbaptized may not so much as look? (Can. xcvii. De Spir. Sanct. c. xxvii.)
+</blockquote>
 
 
 
 
-
-On Holy Scripture in Particular.
+#### On Holy Scripture in Particular.
 
 25. When were the sacred books written?
 
@@ -325,13 +252,13 @@ At different times: some before the birth of Christ, others after.
 
 26. Have not these two divisions of the sacred books each their own names?
 
-They have. Those written before the birth of Christ are called the books of the Old Testament, while those written after are called the books of the New Testament.
+They have. Those written before the birth of Christ are called the books of the *Old Testament*, while those written after are called the books of the *New Testament*.
 
-27. What are the Old and New Testaments?
+27. What are the *Old* and *New* Testaments?
 
 In other words, the old and new Covenants of God with men.
 
-28. In what consisted the Old Testament?
+28. In what consisted the *Old Testament*?
 
 In this, that God promised men a divine Saviour, and prepared them to receive him.
 
@@ -339,7 +266,7 @@ In this, that God promised men a divine Saviour, and prepared them to receive hi
 
 Through gradual revelations, by prophecies and types.
 
-30. In what consists the New Testament?
+30. In what consists the *New Testament*?
 
 In this, that God has actually given men a divine Saviour, his own only-begotten Son, Jesus Christ.
 
@@ -367,8 +294,8 @@ Athanasius the Great says that they have been appointed of the Fathers to be rea
 
 They may be divided into the four following classes:
 
-Books of the Law, which form the basis of the Old Testament.
-
+Books *of the Law*, which form the basis of the Old Testament.
+==*editing is here*==
 Historical books, which contain principally the history of religion.
 
 Doctrinal, which contain the doctrine of religion.
@@ -471,6 +398,8 @@ Signs of this are the following:
 
 5. The mighty effect of this doctrine upon the hearts of men, beyond all but divine power.
 
+</p>
+
 58. In what way are prophecies signs of a true revelation from God?
 
 This may be shown by an example. When the Prophet Isaiah foretold the birth of the Saviour Christ from a virgin, a thing which the natural reason of man could not have so much as imagined, and when, some hundred years after this prophecy, our Lord Jesus Christ was born of the most pure Virgin Mary, it was impossible not to see that the prophecy was the word of the Omniscient, and its fulfillment the work of the Almighty God. Wherefore also the holy Evangelist Matthew, when relating the birth of Christ, brings forward the prophecy of Isaiah: But all this was done, that it might be fulfilled which was spoken of the Lord by the Prophet, saying: Behold a Virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which, being interpreted, is, God with us. Matt. i. 22, 23.
@@ -513,13 +442,13 @@ In the Ten Commandments of the Law of God.
 
 
 
-THE FIRST PART OF THE ORTHODOX CATECHISM.
+### THE FIRST PART OF THE ORTHODOX CATECHISM.
 
-ON FAITH.
+### ON FAITH.
 
 
 
-On the Creed generally, and on its Origin.
+#### On the Creed generally, and on its Origin.
 
 66. What is the Creed?
 
@@ -552,6 +481,7 @@ They are as follows:
 11. I look for the resurrection of the dead;
 
 12. And the life of the world to come. Amen.
+</p>
 
 68. From whom have we this exposition of the faith?
 
@@ -583,7 +513,7 @@ The first was held in the year 325 from the birth of Christ; the second in 381.
 
 
 
-On the Articles of the Creed.
+#### On the Articles of the Creed.
 
 74. What method shall we follow in order the better to understand the œcumenical Creed?
 
@@ -619,7 +549,7 @@ The twelfth article, of the life everlasting.
 
 
 
-On the First Article.
+#### On the First Article.
 
 76. What is it to believe in God?
 
@@ -687,7 +617,7 @@ The Apostle James says that With the Father of lights there is no variableness, 
 
 The Apostle Paul writes that God receiveth not worship of men's hands as though he needed any thing, seeing he giveth to all life, and breath, and all things. Acts xvii. 25. The same Apostle calls God The blessed and only potentate, the King of kings and Lord of lords. 1 Tim. vi. 15.
 
-88. If God is a Spirit, how does holy Scripture ascribe to him bodily parts, as heart, eyes, ears, hands?
+88. If God is a Spirit, how doesÍ holy Scripture ascribe to him bodily parts, as heart, eyes, ears, hands?
 
 Holy Scripture in this suits itself to the common language of men; but we are to understand such expressions in a higher and spiritual sense. For instance, the heart of God means his goodness or love; eyes and ears mean his omniscience; hands, his almighty power.
 
@@ -851,7 +781,7 @@ In the exposition of the faith by the Eastern Patriarchs it is said: As he fores
 
 
 
-Divine providence.
+###### Divine providence.
 
 127.  What is divine providence?
 
@@ -867,7 +797,7 @@ The whole of the ninety-first Psalm is a description of God's special and manifo
 
 
 
-On the Second Article.
+#### On the Second Article.
 
 129.  How are we to understand the names Jesus Christ, the Son of God?
 
@@ -959,13 +889,13 @@ All things were made by him, and without him was not any thing made which was ma
 
 
 
-On the Third Article.
+#### On the Third Article.
 
 150.  Of whom is it said in the Creed, that he came down from heaven?
 
 
 
-Of the Son of God.
+#### Of the Son of God.
 
 151.  How came he down from heaven, seeing that as God he is every where?
 
@@ -1167,7 +1097,7 @@ When we imitate it. For he says, If any one serve me, let him follow me; and whe
 
 
 
-On the Fourth Article.
+#### On the Fourth Article.
 
 199.  How came it to pass that Jesus Christ was crucified, when his doctrine and works should have moved all to reverence him?
 
@@ -1245,7 +1175,7 @@ By bridling the affections and lusts, and by doing what is contrary to them. For
 
 
 
-On the Fifth Article.
+#### On the Fifth Article.
 
 212.  What is the first proof and earnest given by Jesus Christ that his sufferings and death have wrought salvation for us men?
 
@@ -1317,7 +1247,7 @@ This must be understood spiritually; that is, Jesus Christ has one and the same 
 
 
 
-On the Seventh Article.
+#### On the Seventh Article.
 
 226.  How does holy Scripture speak of Christ's coming again?
 
@@ -1373,7 +1303,7 @@ The kingdom of glory.
 
 
 
-On the Eighth Article.
+#### On the Eighth Article.
 
 238.  In what sense is the Holy Ghost called the Lord?
 
@@ -1443,7 +1373,7 @@ The chief and more general are, as reckoned by the Prophet Isaiah, the following
 
 
 
-On the Ninth Article.
+#### On the Ninth Article.
 
 252.  What is the Church?
 
@@ -1607,7 +1537,7 @@ This may be learned from holy Scripture, from the canons of the holy Apostles, t
 
 
 
-On the Tenth Article.
+#### On the Tenth Article.
 
 283.  Why does the Creed mention Baptism?
 
@@ -1767,7 +1697,7 @@ The sanctification of the works and whole walk of the Christian.
 
 
 
-On the Communion.
+#### On the Communion.
 
 315. What is the Communion?
 
@@ -2015,7 +1945,7 @@ The Apostles left this Sacrament to the priests of the Church, as is evident fro
 
 
 
-On the Eleventh Article.
+#### On the Eleventh Article.
 
 366. What is the resurrection of the dead, which, in the words of the Creed, we look for or expect?
 
@@ -2079,7 +2009,7 @@ St. Basil the Great, in his prayers for Pentecost, says that the Lord vouchsafes
 
 
 
-On the Twelfth Article.
+#### On the Twelfth Article.
 
 378. What is the life of the world to come T
 
@@ -2182,7 +2112,7 @@ This question is as if one should ask whether soul alone might not suffice for m
 
 
 
-On the Lord's Prayer.
+#### On the Lord's Prayer.
 
 397. Is there not a prayer which may be termed the common Christian prayer, and pattern of all prayers?
 
@@ -2216,7 +2146,7 @@ For thine is the kingdom, the power, and the glory, forever and ever. Amen. Matt
 
 Into the invocation, seven petitions, and the doxology.
 
-On the Invocation.
+#### On the Invocation.
 
 401. How dare we call God Father?
 
@@ -2238,7 +2168,7 @@ That, entering upon prayer, we may leave every thing earthly and corruptible, an
 
 
 
-On the First Petition.
+#### On the First Petition.
 
 405. Is not God's name holy?
 
@@ -2256,7 +2186,7 @@ Let your light so shine before men, that they may see your good works, and glori
 
 
 
-On the Second Petition.
+#### On the Second Petition.
 
 408. What is the kingdom of God spoken of in the second petition of the Lord's Prayer?
 
@@ -2278,7 +2208,7 @@ Having a desire to depart, and be with Christ. Phil. i. 23.
 
 
 
-On the Third Petition.
+#### On the Third Petition.
 
 412. What means the petition, Thy will be done?
 
@@ -2296,7 +2226,7 @@ Because in heaven the holy angels and saints in bliss, all without exception, al
 
 
 
-On the Fourth Petition.
+#### On the Fourth Petition.
 
 415. What is bread for subsistence?1
 
@@ -2322,7 +2252,7 @@ The Word of God, and the Body and Blood of Christ.
 
 Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. Matt. iv. 4. My flesh is meat indeed, and my blood is drink indeed. John vi. 55.
 
-On the Fifth Petition.
+#### On the Fifth Petition.
 
 420. What is meant in the Lord's Prayer by our debts?
 
@@ -2366,7 +2296,7 @@ If it be possible, as much as lieth in you, live peaceably with all men. Rom. xi
 
 
 
-On the Sixth Petition.
+#### On the Sixth Petition.
 
 428. What is meant in the Lord's Prayer by temptation ?
 
@@ -2382,13 +2312,13 @@ First, that God suffer us not to be led into temptation; secondly, that if it be
 
 
 
-On the Seventh Petition.
+#### On the Seventh Petition.
 
 431. What do we ask in these words of the prayer, Deliver as from evil?
 
 We ask for deliverance from all evil that can reach us in the world, which since the fall lieth in wickedness (1 John v. 19): but especially from the evil of sin, and from the evil suggestions and snares of the spirit of evil, which is the devil.
 
-On the Doxology.
+#### On the Doxology.
 
 432. Why after the Lord's Prayer do we subjoin the Doxology?
 
@@ -2404,7 +2334,7 @@ To signify that we offer the prayer in faith, and without doubting, as we are ta
 
 
 
-On the Doctrine of Blessedness.
+#### On the Doctrine of Blessedness.
 
 435. What must we join with prayer in order to be grounded in the hope of salvation and blessedness?
 
@@ -2442,7 +2372,7 @@ This: that the Lord proposed in these sentences a doctrine for the attainment of
 
 
 
-On the First Beatitude.
+#### On the First Beatitude.
 
 439. What is the Lord's first precept of blessedness?
 
@@ -2470,7 +2400,7 @@ In the present life inwardly, and inchoately,2 by faith and hope; but in the lif
 
 
 
-On the Second Beatitude.
+#### On the Second Beatitude.
 
 445. What is the Lord's second precept for blessedness?
 
@@ -2492,7 +2422,7 @@ That of grace, consisting in the pardon of sin, and in peace of conscience.
 
 In order that sorrow for sin may not reach to despair.
 
-On the Third Beatitude.
+#### On the Third Beatitude.
 
 450. What is the Lord's third precept for blessedness?
 
@@ -2516,7 +2446,7 @@ As regards Christ's followers generally it is a prediction which has been litera
 
 
 
-On the Fourth Beatitude.
+#### On the Fourth Beatitude.
 
 455. What is the Lord's fourth precept for blessedness?
 
@@ -2542,7 +2472,7 @@ As the filling or satisfying of the body produces, first, the cessation of the s
 
 
 
-On the Fifth Beatitude.
+#### On the Fifth Beatitude.
 
 460. What is the Lord's fifth precept for blessedness?
 
@@ -2598,7 +2528,7 @@ That of being delivered from everlasting condemnation for sin at God's Judgment.
 
 
 
-On the Sixth Beatitude.
+#### On the Sixth Beatitude.
 
 467. What is the Lord's sixth precept for blessedness?
 
@@ -2616,7 +2546,7 @@ The Word of God compares the heart of man to the eye, and ascribes to perfect Ch
 
 
 
-On the Seventh Beatitude.
+#### On the Seventh Beatitude.
 
 471. What is the Lord's seventh precept for blessedness?
 
@@ -2636,7 +2566,7 @@ The sublimity both of their office and of their reward. Since in what they do th
 
 
 
-On the Eighth Beatitude.
+#### On the Eighth Beatitude.
 
 475. What is the Lord's eighth precept for blessedness?
 
@@ -2650,7 +2580,7 @@ Love of righteousness, constancy and firmness in virtue, fortitude and patience,
 
 The kingdom of heaven, as if in recompense for what they lose through persecution; in like manner as the same is promised to the poor in spirit, to make up for the feeling of want and privation.
 
-On the Ninth Beatitude.
+#### On the Ninth Beatitude.
 
 478. What is the Lord's ninth precept for blessedness?
 
@@ -2675,7 +2605,7 @@ ON LOVE.
 
 
 
-On the Union between Faith and Love.
+#### On the Union between Faith and Love.
 
 481. What should be the effect and fruit of true faith in the Christian?
 
@@ -2709,7 +2639,7 @@ The Apostle John writes: For this is the love of God, that we keep his commandme
 
 
 
-On the Law of God and the Commandments.
+#### On the Law of God and the Commandments.
 
 485. What means have we to know good works from bad?
 
@@ -2759,7 +2689,7 @@ We must: for they are in substance the same law which, in the words of St. Paul,
 
 He bade men, if they would attain to everlasting life, to keep the Commandments and taught us to understand and fulfill them more perfectly than had been done before he came. Matt xix. 17, and v.
 
-On the Division of the Commandments into Two Tables.
+#### On the Division of the Commandments into Two Tables.
 
 492. What means the division of the Ten Commandments into two tables?
 
@@ -2819,7 +2749,7 @@ Yes; these duties are implied in the commandments of the second table relating t
 
 
 
-On the First Commandment.
+#### On the First Commandment.
 
 503. What mean these words, I am the Lord thy God?
 
@@ -2929,7 +2859,7 @@ To pay them due and rightful honor is altogether agreeable to this commandment; 
 
 
 
-On the Second Commandment.
+#### On the Second Commandment.
 
 516. What is a graven image, as spoken of in the second commandment?
 
@@ -2999,7 +2929,7 @@ Such a vice is hypocrisy; when a man uses the outward acts of religion, as fasti
 
 Those of humility, and doing good in secret.
 
-On the Third Commandment.
+#### On the Third Commandment.
 
 532. When is God's name taken in vain?
 
@@ -3035,7 +2965,7 @@ The Apostle Paul says: Men swear by the greater; and an oath for confirmation is
 
 
 
-On the Fourth Commandment.
+#### On the Fourth Commandment.
 
 536. Why is it commanded to keep the seventh, rather than any other day, holy to God?
 
@@ -3139,7 +3069,7 @@ Without doubt it condemns all who on common days do not give themselves to works
 
 
 
-On the Fifth Commandment.
+#### On the Fifth Commandment.
 
 554. What special duties are prescribed by the fifth commandment in regard to parents, under the general phrase of honoring them?
 
@@ -3253,7 +3183,7 @@ Obedience.
 
 
 
-On the Sixth Commandment.
+#### On the Sixth Commandment.
 
 574. What is forbidden by the sixth commandment?
 
@@ -3313,7 +3243,7 @@ Those of 1. Helping the poor; 2. Ministering to the sick; 3. Comforting the affl
 
 
 
-On the Seventh Commandment.
+#### On the Seventh Commandment.
 
 584. What is forbidden by the seventh commandment? Adultery.
 
@@ -3353,7 +3283,7 @@ It bids us keep our bodies in purity, because they are the members of Christ, an
 
 
 
-On the Eighth Commandment.
+#### On the Eighth Commandment.
 
 592. What is forbidden by the eighth commandment?
 
@@ -3378,6 +3308,7 @@ The chief are--
 7. Eating the bread of idleness; when men receive salary for duty, or pay for work, which they neglect, and so in fact steal both their pay and that profit which society, or he whom they served, should have had of their labor; in like manner when they who are able to support themselves by work, instead of so doing live upon alms.
 
 8. Extortion; when, under the show of some right, but really against equity and humanity, men make their own advantage of the property, the labors, or even the misfortunes of others; as when creditors oppress their debtors by usury; when masters wear out their dependents by excessive imposts or tasks; when in time of famine men sell bread at an exorbitant price.
+</p>
 
 594. When these sins are forbidden, what contrary virtues are thereby enjoined?
 
@@ -3397,7 +3328,7 @@ If thou wilt be perfect, go and sell that thou hast, and give to the poor; and t
 
 
 
-On the Ninth Commandment.
+#### On the Ninth Commandment.
 
 597. What is forbidden by the ninth commandment?
 
@@ -3470,9 +3401,9 @@ The frequent and earnest invocation of the name of our Lord Jesus Christ.
 
 
 
-CONCLUSION.
+### CONCLUSION.
 
-Application of the Doctrine of Faith and Piety.
+#### Application of the Doctrine of Faith and Piety.
 
 609. How must we apply the doctrine of faith and piety?
 
