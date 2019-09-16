@@ -12,81 +12,94 @@ also known as the Catechism of St. Philaret (Drozdov) of Moscow
 (Св. Филарет, Митрополит Московски)
 
 ### [INTRODUCTION TO THE ORTHODOX CATECHISM.](#introduction-to-the-orthodox-catechism)
-#### Preliminary Instruction.
-#### On Divine Revelation.
-#### On Holy Tradition and Holy Scripture.
-#### On Holy Scripture in Particular.
+#### [Preliminary Instruction.](#preliminary-instruction)
+#### [On Divine Revelation.](#on-divine-revelation)
+#### [On Holy Tradition and Holy Scripture.](#on-holy-tradition-and-holy-scripture)
+#### [On Holy Scripture in Particular.](#on-holy-scripture-in-particular)
 
-### [THE FIRST PART OF THE ORTHODOX CATECHISM.](#the-first-part-of-the-orthodox-catechism) ON FAITH.
-#### On the Creed generally, and on its Origin.
-#### On the Articles of the Creed.
-#### On the First Article.
-##### Divine providence.
-#### On the Second Article.
-#### On the Third Article.
-##### Of the Son of God.
-#### On the Fourth Article.
-#### On the Fifth Article.
-#### On the Sixth Article.
-#### On the Seventh Article.
-#### On the Eighth Article.
-#### On the Ninth Article.
-#### On the Tenth Article.
-##### On Baptism.
-##### On Unction with Chrism.
-##### On the Communion.
-##### On Penitence.
-##### On Orders.
-##### On Matrimony.
-##### On Unction with Oil.
-#### On the Eleventh Article.
-#### On the Twelfth Article.
+### [THE FIRST PART OF THE ORTHODOX CATECHISM.](#the-first-part-of-the-orthodox-catechism)
+### [On Faith](#on-faith)
 
-### THE SECOND PART OF THE ORTHODOX CATECHISM. ON HOPE.
-#### Definition of Christian Hope, its Ground, and the Means thereto.
-#### On Prayer.
-#### On the Lord's Prayer.
-#### On the First Petition.
-#### On the Second Petition.
-#### On the Third Petition.
-#### On the Fourth Petition.
-#### On the Fifth Petition.
-#### On the Sixth Petition.
-#### On the Seventh Petition.
-#### On the Doxology.
-#### On the Doctrine of Blessedness.
-#### On the First Beatitude.
-#### On the Second Beatitude.
-#### On the Third Beatitude.
-#### On the Fourth Beatitude.
-#### On the Fifth Beatitude.
-#### On the Sixth Beatitude.
-#### On the Seventh Beatitude.
-#### On the Eighth Beatitude.
+#### [On the Creed generally, and on its Origin.](#on-the-creed-generally-and-on-its-origin)
+#### [On the Articles of the Creed.](#on-the-articles-of-the-creed)
+#### [On the First Article.](#on-the-first-article)
+##### [Divine providence.](#divine-providence)
+#### [On the Second Article.](#on-the-second-article)
+#### [On the Third Article.](#on-the-third-article)
+##### [Of the Son of God.](#of-the-son-of-god)
+#### [On the Fourth Article.](#on-the-fourth-article)
+#### [On the Fifth Article.](#on-the-fifth-article)
+#### [On the Sixth Article.](#on-the-sixth-article)
+#### [On the Seventh Article.](#on-the-seventh-article)
+#### [On the Eighth Article.](#on-the-eight-article)
+#### [On the Ninth Article.](#on-the-ninth-article)
+#### [On the Tenth Article.](#on-the-tenth-article)
+##### [On Baptism.](#on-baptism)
+##### [On Unction with Chrism.](#on-unction-with-chrism)
+##### [On the Communion.](#on-the-communion)
+##### [On Penitence.](#on-penitence)
+##### [On Orders.](#on-orders)
+##### [On Matrimony.](#on-matrimony)
+##### [On Unction with Oil.](#on-unction-with-oil)
+#### [On the Eleventh Article.](#on-the-eleventh-article)
+#### [On the Twelfth Article.](#on-the-twelfth-article)
 
-### THE THIRD PART OF THE ORTHODOX CATECHISM. ON LOVE.
-#### On the Union between Faith and Love.
-#### On the Law of God and the Commandments.
-#### On the First Commandment.
-#### On the Second Commandment.
-#### On the Third Commandment.
-#### On the Fourth Commandment.
-#### On the Fifth Commandment.
-#### On the Sixth Commandment.
-#### On the Seventh Commandment.
-#### On the Eighth Commandment.
-#### On the Ninth Commandment.
-#### On the Tenth Commandment.
+### [THE SECOND PART OF THE ORTHODOX CATECHISM.](#the-second-part-of-the-orthodox-catechism)
 
-### CONCLUSION.
-#### Application of the Doctrine of Faith and Piety.
+### [ON HOPE.](#on-hope)
+#### [Definition of Christian Hope, its Ground, and the Means thereto.](#definition-of-christian-hope-its-ground-and-the-means-thereto)
+#### [On Prayer.](#on-prayer)
+#### [On the Lord's Prayer.](#on-the-lords-prayer)
+#### [On the First Petition.](#on-the-first-petition)
+#### [On the Second Petition.](#on-the-second-petition)
+#### [On the Third Petition.](#on-the-third-petition)
+#### [On the Fourth Petition.](#on-the-fourth-petition)
+#### [On the Fifth Petition.](#on-the-fifth-petition)
+#### [On the Sixth Petition.](#on-the-sixth-petition)
+#### [On the Seventh Petition.](#on-the-seventh-petition)
+#### [On the Doxology.](#on-the-doxology)
+#### [On the Doctrine of Blessedness.](#on-the-doctrine-of-blessedness)
+#### [On the First Beatitude.](#on-the-first-beatitude)
+#### [On the Second Beatitude.](#on-the-second-beatitude)
+#### [On the Third Beatitude.](#on-the-third-beatitude)
+#### [On the Fourth Beatitude.](#on-the-fourth-beatitude)
+#### [On the Fifth Beatitude.](#on-the-fifth-beatitude)
+#### [On the Sixth Beatitude.](#on-the-sixth-beatitude)
+#### [On the Seventh Beatitude.](#on-the-seventh-beatitude)
+#### [On the Eighth Beatitude.](#on-the-eight-beatitude)
+#### [On the Ninth Beatitude.](#on-the-ninth-beatitude)
 
+### [THE THIRD PART OF THE ORTHODOX CATECHISM.](#the-third-part-of-the-orthodox-catechism)
+
+### [ON LOVE.](#on-love)
+
+#### [On the Union between Faith and Love.](#on-the-union-between-faith-and-love)
+#### [On the Law of God and the Commandments.](#on-the-law-of-god-and-the-commandments)
+#### [On the First Commandment.](#on-the-first-commandment)
+#### [On the Second Commandment.](#on-the-second-commandment)
+#### [On the Third Commandment.](#on-the-third-commandment)
+#### [On the Fourth Commandment.](#on-the-fourth-commandment)
+#### [On the Fifth Commandment.](#on-the-fifth-commandment)
+#### [On the Sixth Commandment.](#on-the-sixth-commandment)
+#### [On the Seventh Commandment.](#on-the-seventh-commandment)
+#### [On the Eighth Commandment.](#on-the-eighth-commandment)
+#### [On the Ninth Commandment.](#on-the-ninth-commandment)
+#### [On the Tenth Commandment.](#on-the-tenth-commandment)
+
+### [CONCLUSION.](#conclusion)
+#### [Application of the Doctrine of Faith and Piety.](#application-of-the-doctrine-of-faith-and-piety)
+
+<div class="newpage"/>
+
+***
 
 Examined and Approved by the Most Holy Governing Synod, and Published for the Use of Schools, and of all Orthodox Christians, by Order of His Imperial Majesty (Moscow, at the Synodical Press, 1830.)
 
 St. Philaret (Drozdov) of Moscow, russian icon. Source: days.ru[The large Russian Catechism of Philaret, approved by the holy Synod (although omitted by Kimmel in his Collection, and barely mentioned by Gass in his Greek Symbolics), is now the most authoritative doctrinal standard of the orthodox Græco-Russian Church, and has practically superseded the older Catechism, or Orthodox Confession of Mogila. Originally composed in Slavono-Russian, it was by authority translated into several languages. We have before us a Russian edition (Moscow, 1869), a Greek edition (Χριστιανικ κατ᾿ ἔκτασιν κατήχησις τῆς ὀρϑοδόξου, καϑολικῆς καὶ ἀνατοικῆς ἐκκλησίας , Odessa, 1848), and a German edition (Ausführlicher christlicher Katechismus der orthodox-katholischen orientalischen Kirche, St. Petersburg, 1850).
 
 The English translation here given was prepared by the Rev. R. W. Blackmore, B.A., formerly chaplain to the Russia Company in Kronstadt, and published at Aberdeen, 1845, in the work The Doctrine of the Russian Church. On comparing it with the authorized Greek and German translations, we found it faithful aud idiomatic. The numbering of Questions, and the difference in type of Questions and Answers, are ours. In all other editions we have seen, the Questions are not numbered. As this Catechism has never before appeared in America, we thought it best to give it in full, although the Introduction and the First Part would be sufficient for this collection of doctrinal symbols. Comp. Vol. I. § 19, pp. 68-73.]
+
+***
 
 <div class="newpage"/>
 
@@ -1573,7 +1586,7 @@ Because Baptism was the subject of a question, whether some people, as heretics,
 
 
 
-On Baptism.
+#### On Baptism.
 
 288.  What is Baptism?
 
@@ -1657,7 +1670,7 @@ For if after they have escaped the pollutions of the world through the knowledge
 
 There is a way, which is penitence.
 
-On Unction with Chrism.
+#### On Unction with Chrism.
 
 307. What is Unction with Chrism ?
 
@@ -1713,9 +1726,9 @@ This: that it forms the chief and most essential part of divine service.
 
 318. What is the name of that service in which the Sacrament of the Communion is consecrated?
 
-The Liturgy.
+#### The Liturgy.
 
-319. What means the word Liturgy t
+319. What means the word Liturgy
 
 Common service, but the name Liturgy is specially appropriated to that divine service in which the Sacrament of the Communion is consecrated.
 
@@ -1741,7 +1754,7 @@ Proskomidè, προσκομιδή .
 
 325. What is the meaning of the word Proskomidè?
 
-Offertory.
+#### Offertory.
 
 326. Why is this name given to the first part of the Liturgy?
 
@@ -1799,7 +1812,7 @@ The utterance of the words which Jesus Christ spake in instituting the Sacrament
 
 Because at the moment of this act the bread and wine are changed, or transubstantiated, into the very Body of Christ, and into the very Blood of Christ.
 
-340. How are we to understand the word transubstantiation T
+340. How are we to understand the word transubstantiation
 
 In the exposition of the faith by the Eastern Patriarchs, it is said that the word transubstantiation is not to be taken to define the manner in which the bread and wine are changed into the Body and Blood of the Lord; for this none can understand but God; but only thus much is signified, that the bread truly, really, and substantially becomes the very true Body of the Lord, and the wine the very Blood of the Lord. In like manner John Damascene, treating of the Holy and Immaculate Mysteries of the Lord, writes thus: It is truly that Body, united with Godhead, which had its origin from the Holy Virgin; not as though that Body which ascended came down from heaven, but because the bread and wine themselves are changed into the Body and Blood of God. But if thou seekest after the manner how this is, let it suffice thee to be told that it is by the Holy Ghost; in like manner as, by the same Holy Ghost, the Lord formed flesh to himself, and in himself, from the Mother of God; nor know I aught more than this, that the Word of God is true, powerful, and almighty, but its manner of operation unsearchable. (J. Damasc. Theol. lib. iv. cap. 13, § 7.)
 
@@ -1853,7 +1866,7 @@ Assuredly it will ever continue, even to Christ's coming again, agreeably to the
 
 
 
-On Penitence.
+#### On Penitence.
 
 351. What is Penitence?
 
@@ -1883,7 +1896,7 @@ The word means punishment. See 2 Cor. ii. 6. Under this name are prescribed to t
 
 
 
-On Orders.
+#### On Orders.
 
 357. What are Orders  
 
@@ -1909,7 +1922,7 @@ Of the Episcopal power the Apostle Paul thus writes to Titus: For this cause lef
 
 
 
-On Matrimony.
+#### On Matrimony.
 
 361. What is Matrimony?
 
@@ -1929,7 +1942,7 @@ And the Apostle says: I say therefore to the unmarried and widows, It is good fo
 
 
 
-On Unction with Oil.
+#### On Unction with Oil.
 
 364. What is Unction with Oil? I
 
@@ -2055,10 +2068,10 @@ These meditations will assist us to abstain from sin, and to wean our affections
 
 
 
-THE SECOND PART OF THE ORTHODOX CATECHISM.
-ON HOPE.
+### THE SECOND PART OF THE ORTHODOX CATECHISM.
+### ON HOPE.
 
-Definition of Christian Hope, its Ground, and the Means thereto.
+#### Definition of Christian Hope, its Ground, and the Means thereto.
 
 386. What is Christian hope?
 
@@ -2074,7 +2087,7 @@ The means to this are, first, prayer; secondly, the true doctrine of blessedness
 
 
 
-On Prayer.
+#### On Prayer.
 
 389. Is there any testimony of God's Word to this, that prayer is a mean for attaining to a saving hope?
 
@@ -2324,7 +2337,7 @@ We ask for deliverance from all evil that can reach us in the world, which since
 
 First, that when we ask mercies for ourselves from our heavenly Father, we may at the same time render him that honor which is his due; secondly, that by the thought of his everlasting kingdom, power, and glory, we may be more and more established in the hope that he will give us what we ask, because this is in his power, and makes to his glory.
 
-433. What means the word Amen T
+433. What means the word Amen
 
 It means verily, or so be it.
 

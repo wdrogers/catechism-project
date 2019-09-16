@@ -1,7 +1,18 @@
 # catechism-project
 Modernized and adapted version of the Catechism of Saint Philaret, also known as the Longer Catechism of the Orthodox, Catholic, Eastern Church.
 
+By *modernized* it is meant that language choices and Bible translations will be updated from the 1800's choices to those of the early twenty-first century.
+
+By *adapted* it is meant that Biblically-minded Christians who value the historic, orthodox, traditional Christian faith, coming from a Protestant background and valuing Church unity, may find the adaptations to have merit. Likewise, Christians from an Orthodox background, may also find the adaptations acceptable and valuable when viewed from an ecumenical perspective.
+
+## Vision
 The guiding vision for this project is to provide a modern and comprehensive catechism useful to my own family, and to share it with all who would find benefit from the same.
+
+You are warmly welcomed to this repository, my abode on the internet. The work occurring here is shared as a gift born from Christian love and is my (*our*, counting any contributors) act of service and hospitality.
+
+<blockquote>
+<sup>7</sup> The end of all things is at hand; therefore (keep sane)[be self-controlled] and (sober)[sober-minded] for [the sake of] your prayers. <sup>8</sup> Above all (hold unfailing your love for)[keep loving] one another, since love covers a multitude of sins. <sup>9</sup> (Practice)[Show] <i><b>hospitality</b></i> (ungrudgingly) to one another [without grumbling]. <sup>10</sup> As each has received a gift, (employ)[use] it (for)[to serve] one another, as good stewards of God’s varied grace: <sup>11</sup> whoever speaks, as one who utters oracles of God; whoever (renders service)[serves], as one who (renders it)[serves] by the strength (which)[that] God supplies; in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion for ever and ever. Amen. <b>1 Peter 4:7-11 (RSV)[ESV]</b>
+</blockquote>
 
 ## License
 
