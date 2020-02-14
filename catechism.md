@@ -23,7 +23,6 @@ also known as the Catechism of St. Philaret (Drozdov) of Moscow
 #### [On the Creed generally, and on its Origin.](#on-the-creed-generally-and-on-its-origin)
 #### [On the Articles of the Creed.](#on-the-articles-of-the-creed)
 #### [On the First Article.](#on-the-first-article)
-##### [Divine providence.](#divine-providence)
 #### [On the Second Article.](#on-the-second-article)
 #### [On the Third Article.](#on-the-third-article)
 ##### [Of the Son of God.](#of-the-son-of-god)
@@ -95,7 +94,7 @@ also known as the Catechism of St. Philaret (Drozdov) of Moscow
 
 Examined and Approved by the Most Holy Governing Synod, and Published for the Use of Schools, and of all Orthodox Christians, by Order of His Imperial Majesty (Moscow, at the Synodical Press, 1830.)
 
-St. Philaret (Drozdov) of Moscow, russian icon. Source: days.ru[The large Russian Catechism of Philaret, approved by the holy Synod (although omitted by Kimmel in his Collection, and barely mentioned by Gass in his Greek Symbolics), is now the most authoritative doctrinal standard of the orthodox Græco-Russian Church, and has practically superseded the older Catechism, or Orthodox Confession of Mogila. Originally composed in Slavono-Russian, it was by authority translated into several languages. We have before us a Russian edition (Moscow, 1869), a Greek edition (Χριστιανικ κατ᾿ ἔκτασιν κατήχησις τῆς ὀρϑοδόξου, καϑολικῆς καὶ ἀνατοικῆς ἐκκλησίας , Odessa, 1848), and a German edition (Ausführlicher christlicher Katechismus der orthodox-katholischen orientalischen Kirche, St. Petersburg, 1850).
+St. Philaret (Drozdov) of Moscow, russian icon. Source: days.ru[The large Russian Catechism of Philaret, approved by the holy Synod (although omitted by Kimmel in his Collection, and barely mentioned by Gass in his Greek Symbolics), is now the most authoritative doctrinal standard of the orthodox Græco-Russian Church, and has practically superseded the older Catechism, or Orthodox Confession of Mogila. Originally composed in Slavono-Russian, it was by authority translated into several languages. We have before us a Russian edition (Moscow, 1869), a Greek edition (Χριστιανικ κατ᾿ ἔκτασιν κατήχησις τῆς ὀρϑοδόξου, καϑολικῆς καὶ ἀνατοικῆς ἐκκλησίας , Odessa, 1848), and a German edition (Ausführlicher christlicher Katechismus der orthodox-katholischen orientalischen Kirche, St. Petersburg, 1850).
 
 The English translation here given was prepared by the Rev. R. W. Blackmore, B.A., formerly chaplain to the Russia Company in Kronstadt, and published at Aberdeen, 1845, in the work The Doctrine of the Russian Church. On comparing it with the authorized Greek and German translations, we found it faithful aud idiomatic. The numbering of Questions, and the difference in type of Questions and Answers, are ours. In all other editions we have seen, the Questions are not numbered. As this Catechism has never before appeared in America, we thought it best to give it in full, although the Introduction and the First Part would be sufficient for this collection of doctrinal symbols. Comp. Vol. I. § 19, pp. 68-73.]
 
@@ -664,7 +663,7 @@ God the Father is neither begotten, nor proceeds from any other Person: the Son 
 
 Yes; all of absolutely equal divine majesty. The Father is true God, the Son equally true God, and the Holy Ghost true God; but yet so that in the three Persons there is only one Tri-personal God.
 
-96. Why is God called the Almighty ( Παντοκράτορα )?
+96. Why is God called the Almighty ( Παντοκράτορα )?
 
 Because he upholds all things by his power and his will.
 
@@ -1750,7 +1749,7 @@ This: that first the elements are prepared for the Sacrament; secondly, the fait
 
 324. What is the name for that part of the Liturgy in which the elements are prepared for the Sacrament?
 
-Proskomidè, προσκομιδή .
+Proskomidè, προσκομιδή .
 
 325. What is the meaning of the word Proskomidè?
 
@@ -3405,10 +3404,10 @@ First, to keep purity of heart; and, secondly, to be content with our lot.
 
 The frequent and earnest invocation of the name of our Lord Jesus Christ.
 
-1 [Blackmore uses charity in conformity with the English Bible (1 Cor. xiii. etc.); but love is the more correct rendering of ἀγάπη ( Liebe ), since it applies to God as well as man, while charity is now used in a more restricted sense.
-2 [Greek: Ἡ κοίμησις . German: Der Tag der Entschlafung.--Ed.]
+1 [Blackmore uses charity in conformity with the English Bible (1 Cor. xiii. etc.); but love is the more correct rendering of ἀγάπη ( Liebe ), since it applies to God as well as man, while charity is now used in a more restricted sense.
+2 [Greek: Ἡ κοίμησις . German: Der Tag der Entschlafung.--Ed.]
 
-3 Greek: πνευματικὴ ἱεροσυλία. German: Simonie.
+3 Greek: πνευματικὴ ἱεροσυλία. German: Simonie.
 
 
 
