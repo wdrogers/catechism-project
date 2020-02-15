@@ -19,5 +19,5 @@
 1. Engage in scholarly research as needed to maintain doctrinal integrity with the historic, orthodox faith.
 
 ### Markdown Conventions
-1. Strikethrough original text instead of deleting it like this, using `~~word~~` to produce ~~world~~.
-2. Use highlight to indicate the new wording, using `==earth==` to produce ==earth==. (This works in some flavors of markdown)
+1. Strikethrough original text instead of deleting it, using `~~word~~` to produce ~~world~~.
+2. Use highlight to show the new wording, using `==earth==` to produce ==earth==. (This works in some flavors of markdown)
