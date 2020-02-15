@@ -17,3 +17,7 @@
 1. Leverage the insights of one of the most ecumenical of historically recent theologians, John Wesley, to adapt the content of the catechism for general use.  Refer to the Bible commentaries of John Wesley and Matthew Henry for cited verses to check for interpretive differences.
 1. Retain visibly the difference between the original text and the Universal text.  Where Base-revision can be deemed "equivalent" by sufficiently regarded Orthodox representatives, this would lead to a strategy to minimize the apparent differences from actual differences.
 1. Engage in scholarly research as needed to maintain doctrinal integrity with the historic, orthodox faith.
+
+### Markdown Conventions
+1. Strikethrough original text instead of deleting it like this, using `~~word~~` to produce ~~world~~.
+2. Use highlight to indicate the new wording, using `==earth==` to produce ==earth==. (This works in some flavors of markdown)
