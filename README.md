@@ -1,9 +1,9 @@
 # catechism-project
-Modernized and adapted version of the Catechism of Saint Philaret, also known as the Longer Catechism of the Orthodox, Catholic, Eastern Church.
+Modernized and universal version of the Catechism of Saint Philaret, also known as the Longer Catechism of the Orthodox, Catholic, Eastern Church.
 
-By *modernized* it is meant that language choices and Bible translations will be updated from the 1800's choices to those of the early twenty-first century.
+By *modernized* it is meant that language choices and Bible translations will be updated from the 1800's choices to those of the early twenty-first century. Univerally-recognized Christian terminology is used wherever possible.  The vocabulary used in questions and answers is aligned to the word choices of the Bible translation.
 
-By *adapted* it is meant that Biblically-minded Christians who value the historic, orthodox, traditional Christian faith, coming from a Protestant background and valuing Church unity, may find the adaptations to have merit. Likewise, Christians from an Orthodox background, may also find the adaptations acceptable and valuable when viewed from an ecumenical perspective.
+By *universal* it is meant that Biblically-minded Christians who value the historic, orthodox, traditional Christian faith, coming from a variety of backgrounds and valuing Church unity, may find the adaptations to have merit. Likewise, it is our hope that Christians from an Orthodox background will also find the modernization helpful and the adaptations acceptable and valuable, especially when viewed from an ecumenical perspective on the Universal Church.
 
 ## Vision
 The guiding vision for this project is to provide a modern and comprehensive catechism useful to my own family, and to share it with all who would find benefit from the same.
