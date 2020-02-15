@@ -134,13 +134,13 @@ According to the definition of St. Paul, Faith is the substance of things hoped 
 
 Knowledge has for its object things visible and comprehensible; faith, things which are invisible, and even incomprehensible. Knowledge is founded on experience, on examination of its object; but faith on belief of testimony to truth. Knowledge belongs properly to the intellect, although it may also act on the heart; faith belongs principally to the heart, although it is imparted through the intellect.
 
-8. Why is faith, and not knowledge only, necessary in religious instruction?
+**8. Why is faith, and not knowledge only, necessary in religious instruction?**
 
 Because the chief object of this instruction is God invisible and incomprehensible, and the wisdom of God hidden in a mystery; consequently, many parts of this learning can not be embraced by knowledge, but may be received by faith.
 
 Faith, says St. Cyril of Jerusalem, is the eye which enlighteneth every man's conscience; it giveth man knowledge. For, as the prophet says, If ye will not believe, ye shall not understand. Isa. vii. 9; Cyr. Cat. v.
 
-9. Can you illustrate further the necessity of faith?
+**9. Can you illustrate further the necessity of faith?**
 
 St. Cyril thus illustrates it:
 
