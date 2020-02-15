@@ -106,31 +106,31 @@ The English translation here given was prepared by the Rev. R. W. Blackmore, B.A
 
 #### Preliminary Instruction.
 
-1. What is an Orthodox Catechism?
+**1. What is an Orthodox Catechism?**
 
 An Orthodox Catechism is an instruction in the orthodox Christian faith, to be taught to every Christian, to enable him to please God and save his own soul.
 
-2. What is the meaning of the word Catechism?
+**2. What is the meaning of the word Catechism?**
 
 It is a Greek word, signifying instruction, or oral teaching, and has been used ever since the Apostles' times to denote that primary instruction in the orthodox faith which is needful for every Christian. Luke i. 4; Acts xviii. 25.
 
-3. What is necessary in order to please God and to save one's own soul?
+**3. What is necessary in order to please God and to save one's own soul?**
 
 In the first place, a knowledge of the true God, and a right faith in him; in the second place, a life according to faith, and good works.
 
-4. Why is faith necessary in the first place?
+**4. Why is faith necessary in the first place?**
 
 Because, as the Word of God testifies, Without faith it is impossible to please God. Heb. xi. 6.
 
-5. Why must a life according to faith, and good works, be inseparable from this faith?
+**5. Why must a life according to faith, and good works, be inseparable from this faith?**
 
 Because, as the Word of God testifies, Faith without works is dead James ii. 20.
 
-6. What is faith?
+**6. What is faith?**
 
 According to the definition of St. Paul, Faith is the substance of things hoped for, the evidence of things not seen (Heb. xi. 1); that is, a trust in the unseen as though it were seen, in that which is hoped and waited for as if it were present.
 
-7. What is the difference between knowledge and faith?
+**7. What is the difference between knowledge and faith?**
 
 Knowledge has for its object things visible and comprehensible; faith, things which are invisible, and even incomprehensible. Knowledge is founded on experience, on examination of its object; but faith on belief of testimony to truth. Knowledge belongs properly to the intellect, although it may also act on the heart; faith belongs principally to the heart, although it is imparted through the intellect.
 
